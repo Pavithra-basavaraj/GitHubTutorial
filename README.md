@@ -6,3 +6,4 @@ Topics Covered:
 3)git status
 4)ls
 5)ls -Force -Name
+6)Branches
